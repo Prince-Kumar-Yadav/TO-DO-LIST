@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+    overflow: scroll;
+
+}
+.delete{
+    margin-left:10px ;
+    margin-bottom: 10px;
+}
+input{
+    width: 500px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: cursive;
+}
+.container{
+    height: 500px;
+    width: 700px;
+    background-color:blue;
+    border-radius: 50px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    /* overflow: scroll; */
+
+
+    box-shadow: 10px 10px 10px 10px;
+   
+    /* text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+
+}
+h1{
+    font-size: 60px;
+    font-family:cursive;color: white;
+}
+.btn{
+    height: 60px;
+    width: 100px;
+    border-radius: 20px;
+    background: #1587d9;
+    font-size: 20px;
+    color: white;
+}
